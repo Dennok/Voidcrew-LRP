@@ -248,11 +248,6 @@
 /area/ship/cargo)
 "in" = (
 /obj/structure/closet/cabinet,
-/obj/item/clothing/suit/space/hardsuit/cult,
-/obj/item/clothing/suit/space/hardsuit/cult,
-/obj/item/clothing/suit/space/hardsuit/cult,
-/obj/item/clothing/suit/space/hardsuit/cult,
-/obj/item/clothing/suit/space/hardsuit/cult,
 /obj/item/melee/cultblade,
 /obj/item/melee/cultblade,
 /obj/item/melee/cultblade,
@@ -464,9 +459,15 @@
 /obj/effect/turf_decal/stripes/asteroid/full,
 /obj/structure/fans/tiny,
 /obj/docking_port/mobile{
-	dir = 4;
+	area_type = /area/ship;
+	dheight = 1;
+	dir = 8;
+	dwidth = 10;
+	height = 21;
 	launch_status = 0;
-	port_direction = 8
+	name = "express_cultist ship";
+	port_direction = 8;
+	width = 25
 	},
 /obj/machinery/door/poddoor{
 	id = "starboardloadingbay";

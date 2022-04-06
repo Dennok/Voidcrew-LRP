@@ -51,6 +51,7 @@
 	req_access_txt = "150"
 	},
 /obj/docking_port/mobile{
+	area_type = /area/ship;
 	dir = 2;
 	dwidth = 6;
 	height = 7;
@@ -126,8 +127,8 @@
 "sn" = (
 /obj/structure/table/reinforced,
 /obj/machinery/airalarm/syndicate{
-	pixel_y = 24;
-	dir = 1
+	dir = 1;
+	pixel_y = 24
 	},
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -197,7 +198,6 @@
 /area/ship/crew)
 "EO" = (
 /obj/structure/table/reinforced,
-/obj/item/disk/design_disk/ammo_c9mm,
 /obj/machinery/power/apc/syndicate{
 	dir = 8;
 	name = "Syndicate Drop Ship APC";
@@ -308,7 +308,6 @@
 /obj/machinery/light/small{
 	dir = 4
 	},
-/obj/structure/showcase/cyborg/assault,
 /turf/open/floor/pod/dark,
 /area/ship/crew)
 "Lq" = (

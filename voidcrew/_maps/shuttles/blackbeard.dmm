@@ -9,17 +9,7 @@
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/ship/hallway/central)
-"av" = (
-/obj/structure/cable,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
-,
-/turf/open/floor/catwalk_floor/flat_white,
-/area/ship/hallway/fore)
 "aM" = (
-,
 /obj/machinery/atmospherics/components/unary/vent_pump/siphon/layer4,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/central)
@@ -38,7 +28,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /obj/structure/sign/syndicate{
 	pixel_y = 32
 	},
@@ -47,7 +36,6 @@
 "bM" = (
 /obj/machinery/door/airlock/external,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
 /obj/structure/fans/tiny/invisible,
 /turf/open/floor/catwalk_floor/flat_white,
@@ -85,14 +73,12 @@
 /obj/machinery/light/small{
 	dir = 8
 	},
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/crew)
 "dy" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /obj/structure/sign/poster/contraband/random{
 	pixel_y = -32
 	},
@@ -104,7 +90,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/central)
 "dH" = (
@@ -155,7 +140,6 @@
 /turf/open/floor/plating,
 /area/ship/external)
 "fR" = (
-,
 /obj/machinery/atmospherics/components/unary/vent_pump/siphon/layer4{
 	dir = 1
 	},
@@ -170,15 +154,6 @@
 	},
 /turf/open/floor/plating,
 /area/ship/external)
-"fZ" = (
-/obj/structure/cable,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
-,
-/turf/open/floor/catwalk_floor/flat_white,
-/area/ship/hallway/central)
 "gN" = (
 /turf/closed/wall/mineral/plastitanium,
 /area/ship/hallway/central)
@@ -193,7 +168,6 @@
 /obj/machinery/power/apc/auto_name/directional/north,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/cargo)
 "hK" = (
@@ -223,7 +197,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /obj/machinery/navbeacon{
 	codes_txt = "patrol;next_patrol=crew";
 	location = "cargo"
@@ -243,7 +216,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/central)
 "jX" = (
@@ -281,7 +253,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/bridge)
 "ln" = (
@@ -291,7 +262,6 @@
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/bridge)
 "lZ" = (
@@ -307,7 +277,6 @@
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/crew)
 "nm" = (
@@ -315,13 +284,11 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/fore)
 "nE" = (
 /obj/structure/cable,
 /obj/structure/cable,
-,
 /obj/machinery/navbeacon{
 	codes_txt = "patrol;next_patrol=storage";
 	location = "bridge"
@@ -335,8 +302,6 @@
 /area/ship/bridge)
 "nU" = (
 /obj/machinery/door_buttons/airlock_controller,
-,
-,
 /obj/machinery/light/small{
 	dir = 4
 	},
@@ -396,9 +361,9 @@
 "rJ" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/airalarm/all_access{
+	dir = 1;
 	pixel_x = null;
-	pixel_y = 24;
-	dir = 1
+	pixel_y = 24
 	},
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/engineering)
@@ -470,7 +435,6 @@
 "uw" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/central)
 "vP" = (
@@ -518,11 +482,8 @@
 /area/ship/engineering)
 "xi" = (
 /obj/structure/closet/syndicate,
-/obj/item/clothing/suit/aclf,
-/obj/item/clothing/head/aclfcap,
 /obj/item/clothing/gloves/krav_maga/combatglovesplus,
 /obj/item/clothing/glasses/sunglasses,
-/obj/item/clothing/under/syndicate/aclf,
 /obj/item/clothing/shoes/combat,
 /obj/item/melee/baton/telescopic,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
@@ -539,7 +500,6 @@
 /obj/machinery/door/airlock/hatch,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/cargo)
 "xZ" = (
@@ -569,7 +529,6 @@
 /area/ship/hallway/central)
 "Bw" = (
 /obj/structure/cable,
-,
 /obj/machinery/power/apc/auto_name/directional/west,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/central)
@@ -577,12 +536,10 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/cargo)
 "BG" = (
 /obj/machinery/door/airlock/external,
-,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
 	dir = 1
 	},
@@ -631,7 +588,6 @@
 /obj/machinery/computer/helm{
 	dir = 8
 	},
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/bridge)
 "DN" = (
@@ -666,7 +622,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/fore)
 "EK" = (
@@ -688,7 +643,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /obj/machinery/navbeacon{
 	codes_txt = "patrol;next_patrol=bridge";
 	location = "crew"
@@ -752,16 +706,19 @@
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
 /obj/docking_port/mobile{
+	area_type = /area/ship;
 	dir = 2;
+	dwidth = 26;
+	height = 13;
 	name = "Syndicate Heavy Boarder";
 	port_direction = 8;
-	preferred_direction = 4
+	preferred_direction = 4;
+	width = 39
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/ship/hallway/central)
 "Jb" = (
 /obj/structure/cable,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/crew)
 "Jm" = (
@@ -810,7 +767,6 @@
 /area/ship/hallway/fore)
 "KU" = (
 /obj/machinery/door/airlock/external,
-,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
 	dir = 1
 	},
@@ -824,7 +780,6 @@
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/engineering)
 "ME" = (
@@ -877,7 +832,6 @@
 /obj/machinery/door/airlock/hatch,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/central)
 "Qh" = (
@@ -886,37 +840,21 @@
 "Qp" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-,
 /obj/structure/sign/poster/contraband/random{
 	pixel_x = -32
 	},
-/turf/open/floor/catwalk_floor/flat_white,
-/area/ship/hallway/central)
-"Qx" = (
-/obj/structure/cable,
-,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/central)
 "Qz" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /obj/machinery/airalarm/all_access{
 	dir = 4;
 	pixel_x = -24
 	},
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/fore)
-"Rl" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/turf/open/floor/catwalk_floor/flat_white,
-/area/ship/hallway/central)
 "Rp" = (
 /obj/structure/table/reinforced,
 /obj/structure/railing{
@@ -968,14 +906,12 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/structure/cable,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/central)
 "Tj" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/central)
 "Tp" = (
@@ -984,7 +920,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/fore)
 "TI" = (
@@ -1025,7 +960,6 @@
 /area/ship/engineering)
 "UB" = (
 /obj/machinery/door/airlock/external,
-,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/fans/tiny/invisible,
@@ -1049,7 +983,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/crew)
 "WH" = (
@@ -1079,7 +1012,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /obj/machinery/airalarm/all_access{
 	dir = 1;
 	pixel_y = -24
@@ -1088,7 +1020,6 @@
 /area/ship/cargo)
 "XN" = (
 /obj/machinery/door_buttons/airlock_controller,
-,
 /obj/machinery/light/small{
 	dir = 4
 	},
@@ -1117,7 +1048,6 @@
 "ZG" = (
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/directional/south,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/bridge)
 "ZO" = (
@@ -1130,7 +1060,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-,
 /turf/open/floor/catwalk_floor/flat_white,
 /area/ship/hallway/fore)
 
@@ -1318,13 +1247,13 @@ gN
 Id
 aM
 BG
-Qx
+Tj
 WH
 Cn
 sV
 sv
 WH
-Rl
+Tj
 bM
 fR
 Ol
@@ -1333,13 +1262,13 @@ Ol
 BS
 XN
 KU
-Rl
+Tj
 WH
 iH
 Zz
 cu
 WH
-Rl
+Tj
 UB
 nU
 Ol
@@ -1384,7 +1313,7 @@ uw
 Qp
 uw
 Tj
-fZ
+jW
 rE
 vP
 TQ
@@ -1498,7 +1427,7 @@ TQ
 TQ
 TQ
 jm
-av
+nm
 ZR
 Qz
 Ed

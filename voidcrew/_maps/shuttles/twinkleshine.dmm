@@ -119,7 +119,6 @@
 /obj/structure/cable{
 	icon_state = "1-8"
 	},
-,
 /obj/structure/cable{
 	icon_state = "1-4"
 	},
@@ -155,7 +154,6 @@
 /obj/structure/cable{
 	icon_state = "1-8"
 	},
-,
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
@@ -206,7 +204,6 @@
 /obj/structure/cable{
 	icon_state = "1-8"
 	},
-,
 /turf/open/floor/plating,
 /area/ship/crew/dorm)
 "cz" = (
@@ -518,18 +515,6 @@
 /obj/structure/window/reinforced/plasma/plastitanium,
 /turf/open/floor/plating,
 /area/ship/engineering)
-"fz" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer2,
-,
-/obj/structure/cable{
-	icon_state = "2-8"
-	},
-/obj/structure/cable{
-	icon_state = "2-4"
-	},
-/turf/open/floor/plating,
-/area/ship/crew/dorm)
 "fI" = (
 /obj/structure/rack,
 /obj/item/storage/toolbox/electrical{
@@ -563,15 +548,6 @@
 /obj/item/gun/ballistic/automatic/ebr,
 /turf/open/floor/carpet/red,
 /area/ship/security)
-"fO" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer2,
-/obj/structure/cable{
-	icon_state = "4-8"
-	},
-,
-/turf/open/floor/plating,
-/area/ship/crew/dorm)
 "fW" = (
 /turf/open/floor/carpet/red,
 /area/ship/security)
@@ -726,15 +702,6 @@
 	},
 /turf/open/floor/plating,
 /area/ship/bridge)
-"hU" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer2,
-,
-/obj/structure/cable{
-	icon_state = "1-2"
-	},
-/turf/open/floor/plating,
-/area/ship/crew/dorm)
 "ie" = (
 /obj/effect/turf_decal/stripes/line,
 /obj/structure/cable,
@@ -794,7 +761,6 @@
 /obj/structure/cable{
 	icon_state = "2-8"
 	},
-,
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
@@ -958,7 +924,6 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-,
 /turf/open/floor/plating,
 /area/ship/crew/dorm)
 "kV" = (
@@ -1313,7 +1278,6 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-,
 /turf/open/floor/plating,
 /area/ship/crew/dorm)
 "pI" = (
@@ -1351,7 +1315,6 @@
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer4,
-,
 /turf/open/floor/plating,
 /area/ship/crew/dorm)
 "qj" = (
@@ -1390,10 +1353,14 @@
 /area/ship/engineering/electrical)
 "qz" = (
 /obj/docking_port/mobile{
+	area_type = /area/ship;
 	can_move_docking_ports = 1;
 	dir = 4;
+	dwidth = 38;
+	height = 35;
 	name = "SBD starfurys revenge";
-	port_direction = 8
+	port_direction = 8;
+	width = 52
 	},
 /obj/structure/railing,
 /obj/structure/railing{
@@ -1442,7 +1409,6 @@
 	color = "red"
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer2,
-,
 /turf/open/floor/plating,
 /area/ship/crew/dorm)
 "rf" = (
@@ -1625,7 +1591,6 @@
 "sN" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer2,
-,
 /obj/structure/cable{
 	icon_state = "1-8"
 	},
@@ -2385,7 +2350,6 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-,
 /turf/open/floor/plating,
 /area/ship/cargo)
 "Bk" = (
@@ -2460,7 +2424,6 @@
 "CI" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer4,
-,
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
@@ -2612,7 +2575,6 @@
 /obj/structure/cable{
 	icon_state = "2-4"
 	},
-,
 /turf/open/floor/plating,
 /area/ship/crew/dorm)
 "Et" = (
@@ -2621,7 +2583,6 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
-,
 /turf/open/floor/plating,
 /area/ship/crew/dorm)
 "Ew" = (
@@ -2681,7 +2642,6 @@
 /obj/machinery/light{
 	dir = 4
 	},
-,
 /turf/open/floor/plating,
 /area/ship/crew/dorm)
 "Fv" = (
@@ -3191,7 +3151,6 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
-,
 /turf/open/floor/plating,
 /area/ship/cargo)
 "LQ" = (
@@ -3219,7 +3178,6 @@
 "LS" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer2,
-,
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
@@ -3800,7 +3758,6 @@
 /obj/machinery/light{
 	dir = 8
 	},
-,
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
@@ -5283,14 +5240,14 @@ Qv
 xQ
 Sf
 LG
-fO
+LS
 rJ
 If
 LG
 LG
 cq
 ex
-fO
+LS
 LG
 eq
 Pj
@@ -5337,7 +5294,7 @@ co
 xQ
 OE
 LG
-fO
+LS
 eq
 eq
 eq
@@ -5445,14 +5402,14 @@ Yy
 KA
 LG
 LG
-fO
+LS
 eq
 Qn
 Qn
 Qn
 Qn
 eq
-fO
+LS
 GT
 xm
 lN
@@ -5506,7 +5463,7 @@ UP
 YC
 QJ
 Sh
-fO
+LS
 LG
 ej
 ej
@@ -5560,7 +5517,7 @@ QO
 rX
 Qn
 iT
-fO
+LS
 LG
 PN
 Xr
@@ -5614,7 +5571,7 @@ Qn
 Qn
 Qn
 eq
-fO
+LS
 GT
 Pe
 jq
@@ -5776,7 +5733,7 @@ So
 Qr
 LG
 rJ
-fO
+LS
 LG
 So
 wJ
@@ -5823,16 +5780,16 @@ rt
 rt
 eq
 LG
-fz
+Ep
 Ip
-hU
-hU
-hU
-hU
+Et
+Et
+Et
+Et
 WT
 cf
-hU
-hU
+Et
+Et
 st
 oE
 VW
@@ -5873,9 +5830,9 @@ Yp
 Yp
 Yp
 Zy
-hU
+Et
 RK
-hU
+Et
 CI
 sN
 qG

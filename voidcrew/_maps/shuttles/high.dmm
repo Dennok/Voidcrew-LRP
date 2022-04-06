@@ -23,10 +23,6 @@
 /obj/machinery/recharger,
 /turf/open/floor/carpet/red,
 /area/ship/security)
-"aN" = (
-,
-/turf/open/floor/plating,
-/area/ship/engineering)
 "aP" = (
 /obj/machinery/door/airlock/external,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer2,
@@ -187,7 +183,6 @@
 /obj/item/reagent_containers/food/drinks/bottle/wine,
 /obj/item/reagent_containers/food/drinks/bottle/wine,
 /obj/item/reagent_containers/food/drinks/bottle/wine,
-,
 /turf/open/floor/iron,
 /area/ship/cargo)
 "dA" = (
@@ -554,9 +549,6 @@
 /obj/item/clothing/under/suit/black,
 /obj/item/clothing/under/suit/black,
 /obj/item/clothing/under/suit/black,
-,
-,
-,
 /obj/item/clothing/under/suit/black_really,
 /obj/item/clothing/under/suit/black_really,
 /obj/item/clothing/under/suit/black_really,
@@ -2098,9 +2090,13 @@
 	dir = 8
 	},
 /obj/docking_port/mobile{
+	area_type = /area/ship;
 	dir = 8;
+	dwidth = 25;
+	height = 24;
 	launch_status = 0;
-	port_direction = 4
+	port_direction = 4;
+	width = 40
 	},
 /turf/open/floor/plating,
 /area/ship/hallway/starboard)
@@ -3554,8 +3550,8 @@ rF
 rF
 rF
 Ca
-aN
-aN
+xO
+xO
 Or
 xO
 dZ
