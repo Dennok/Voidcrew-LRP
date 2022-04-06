@@ -190,7 +190,7 @@
 	height = 20;
 	launch_status = 0;
 	name = "energia ship";
-	port_direction = 8;
+	port_direction = 4;
 	preferred_direction = 4;
 	width = 20
 	},
