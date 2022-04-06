@@ -142,7 +142,7 @@ SUBSYSTEM_DEF(overmap)
 			force_unused_overmap_square(overmap_turf)
 			planet_object = new(overmap_turf)
 			break
-		planet_object.linked_zlevel = spawn_planet(planet, i) // spawn the planet here, and link it to the planet
+		//linked_zlevel = spawn_planet(planet, i) // spawn the planet here, and link it to the planet
 		setup_planet(planet_object, planet)
 
 /datum/controller/subsystem/overmap/proc/setup_sun()
@@ -239,7 +239,7 @@ SUBSYSTEM_DEF(overmap)
 /datum/controller/subsystem/overmap/proc/setup_events()
 	setup_sun()
 	setup_dangers()
-	setup_space()
+	//setup_space()
 
 
 //VOID TODO setup SSovermap recover
